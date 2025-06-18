@@ -39,6 +39,8 @@ php artisan key:generate
 php artisan migrate --seed
 php artisan serve
 
+---
+
 ##License
 This project is open-source and available under a custom permissive license:
 
